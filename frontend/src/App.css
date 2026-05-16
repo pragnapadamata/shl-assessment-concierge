@@ -1,0 +1,5 @@
+/* App.css — intentionally minimal; all theming lives in index.css */
+.App {
+  min-height: 100dvh;
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+.venv/
+venv/
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+
+# Misc
+.vscode/
+*.log
